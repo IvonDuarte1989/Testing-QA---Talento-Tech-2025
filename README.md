@@ -1,4 +1,4 @@
-# Testing-QA-Talento-Tech-2025
+# Testing QA-TalentoTech (2025)
 
 Formación orientada a la calidad de software y testing manual, enfocada en 
 el análisis, diseño y ejecución de pruebas para garantizar el correcto 
