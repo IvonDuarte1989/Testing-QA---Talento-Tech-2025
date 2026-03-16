@@ -17,4 +17,4 @@ y uso de herramientas ágiles como Jira y Zephyr.
 [Link al proyecto final]()
 
 ## Certificado
-[Link al certificado]()
+[Link al certificado](https://drive.google.com/file/d/1kI4RAXXdCCEjCPE9cUiyreKajWPbY2xv/view?usp=sharing)
