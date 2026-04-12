@@ -14,7 +14,7 @@ durante el curso para evaluar y asegurar la calidad de una plataforma web
 y mobile, mediante la planificación, ejecución de pruebas, gestión de defectos 
 y uso de herramientas ágiles como Jira y Zephyr.
 
-[Link al proyecto final]()
+[Link al proyecto final](https://drive.google.com/file/d/1WuydP8R6xPMiFdBCO_fN6wI8o8XvsJuy/view?usp=drive_link)
 
 ## Certificado
 [Link al certificado](https://drive.google.com/file/d/1kI4RAXXdCCEjCPE9cUiyreKajWPbY2xv/view?usp=sharing)
